@@ -9,7 +9,6 @@ A fun and interactive bird game built using JavaScript and Three.js.
 - Dynamic obstacles and challenges  
 
 ## 🛠️ Technologies Used
-- **Three.js** for 3D rendering  
 - **JavaScript** for game logic  
 - **HTML/CSS** for UI  
 
